@@ -17,7 +17,7 @@ A cutting-edge web design and development agency website featuring modern Web3 a
 
 ## 🚀 Demo
 
-**Live Preview:** [https://website-template-13-iyls5lb0f-alexey9911s-projects.vercel.app](https://website-template-13-iyls5lb0f-alexey9911s-projects.vercel.app)
+**Live Preview:** [https://website-template-13.vercel.app/](https://website-template-13.vercel.app/)
 
 ## 📁 Project Structure
 
