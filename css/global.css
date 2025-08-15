@@ -82,6 +82,12 @@ img {
   background: var(--color-bg);
 }
 
+/* Arreglo específico para Windows - Solo para body > div.container */
+body > div.container {
+  overflow: hidden !important; /* Elimina ambos scrolls del contenedor */
+  max-width: 100vw; /* Asegura que no exceda viewport */
+}
+
 .callout {
   width: max-content;
   padding: 0.5em 1em;
