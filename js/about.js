@@ -9,8 +9,8 @@ const tl = gsap
     scrollTrigger: {
       trigger: ".about",
       start: "top 50%",
-      end: "+=125%",
-      scrub: 0.5,
+      end: "+=90%",
+      scrub: 0.2,
     },
   })
   .set(
