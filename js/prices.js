@@ -8,8 +8,8 @@ const tl2 = gsap
   .timeline({
     scrollTrigger: {
       trigger: ".prices",
-      start: "top 50%",
-      end: "+=90",
+      start: "top 30%",
+      end: "+=60%",
       scrub: 0.2,
     },
   })
